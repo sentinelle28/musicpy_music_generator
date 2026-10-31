@@ -1,3 +1,3 @@
 # musicpy_music_generator
-Requierement: musicpy
+Requierement: musicpy.
 A benign project using musicpy which coincidentally may destroy your ear when running it it is still up to date....
